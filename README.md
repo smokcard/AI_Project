@@ -43,8 +43,12 @@ Evaluación del modelo con accuracy_score.
 Definición de la función de recomendación (recommend).
 
 ![GitHub Copolot Chat](img/img1.png)
+![GitHub Copolot Chat](img/img2.png)
+![GitHub Copolot Chat](img/img3.png)
+
 ### Paso 4: Ejecución y Resultados
 Ejecución del script en la terminal para validar el porcentaje de precisión y la recomendación generada.
+![GitHub Copolot Chat](img/img5.png)
 
 ### paso 5: Control de Versiones con Git
 Registro de cambios y sincronización con el repositorio remoto:
@@ -53,3 +57,5 @@ git status
 git add .
 git commit -m "Add recommendation system example"
 git push -u origin main
+
+![GitHub Copolot Chat](img/img4.png)
